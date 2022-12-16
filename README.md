@@ -17,7 +17,7 @@ requirements.
 ## :handshake: Contribution
 
 Contributions are always welcomed, here is what you need to do:
-1. Work on an existing issue or create a new one [here](https://github.com/mishrarahul07/Task-Master/issues)
+1. Work on an existing issue or create a new one [here](https://github.com/kashingupta/personal_manager/issues)
 2. Create a pull request linked to that issue
 
 Know more about [pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
@@ -25,7 +25,7 @@ Know more about [pull request](https://docs.github.com/en/free-pro-team@latest/g
 
 ## :earth_asia: Live Demo
 
-[Visit Here](https://mishrarahul07.github.io/Task-Master/)
+[Visit Here](https://kashingupta.github.io/personal_manager/)
 <hr>
 
 ## :computer: Screenshots
