@@ -35,4 +35,4 @@ Know more about [pull request](https://docs.github.com/en/free-pro-team@latest/g
 
 
 ## :clipboard: Contributor
-Connect Here:  <a href = "https://www.linkedin.com/in/mishra-rahul07/" target="_blank">Rahul Mishra</a>
+Connect Here:  <a href = "https://www.linkedin.com/in/kashin-gupta-3252a51a1/" target="_blank">Kashin Gupta</a>
