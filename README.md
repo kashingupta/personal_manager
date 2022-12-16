@@ -1,4 +1,4 @@
-## Task-Master 
+## Personal-Manager 
 <img src="images/Add tasks.gif" alt="logo full" width=25%> 
 Struggling with managing expenses, attendance and setting up your college schedule? 
 Too much apps to handle all these tasks? Don't worry! Here's a platform where a student 
